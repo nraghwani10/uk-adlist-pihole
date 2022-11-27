@@ -1,0 +1,4 @@
+###Channel 4 and ITV Blocklist VOD
+cdn.http.anno.channel4.com
+cdn.ss.anno.channel4.com
+tom.itv.com
